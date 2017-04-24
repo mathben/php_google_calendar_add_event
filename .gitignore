@@ -2,3 +2,5 @@ composer.lock
 /vendor/
 .idea
 /secret/
+/project_1/api/calendar/post/secret/
+/project_1/api/calendar/post/vendor
